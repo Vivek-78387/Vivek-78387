@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Vivek-78387
-- 👀 I’m interested in Hacking
-- 🌱 I’m currently Working as a Faculty of Ethical Hacking 
+- 👋 Hi, I’m Vivek 
+- 👀 I’m Ethical Hacker 
+- 🌱 I’m currently Working as a Faculty of Ethical Hacking at IICS
 
 
 <!---
